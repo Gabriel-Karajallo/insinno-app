@@ -7,10 +7,14 @@
 img{
   max-width: 20%
 }
+.container{
+  padding: 22px;
+}
 
 .content{
-  height: 50%;
+  height: 50vh;
 }
+
 
 input{
   width: 70%;
